@@ -20,9 +20,7 @@ class ViewController: UIViewController{
         print("test")
         print(Tekstfield.text)
         
-        //todolist.append(Tekstfield.text!)
-        
-        //NSUserDefaults.standardUserDefaults().setObject(todolist, forKey: "key")
+    
     }
     
     override func viewDidLoad() {
