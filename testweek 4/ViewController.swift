@@ -25,11 +25,7 @@ class ViewController: UIViewController{
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        //if NSUserDefaults.standardUserDefaults().objectForKey("key") != nil{
-          //  todolist = NSUserDefaults.standardUserDefaults().objectForKey("key") as! [String]
-            
-            
-      //  }
+      
     }
     
     override func didReceiveMemoryWarning() {
